@@ -1,2 +1,20 @@
-# BOJ_algorithm
-This is a repository for uploading files related to BaekJoon Online Judge algorithm study
+# 알고리즘 스터디
+- 매주 금요일 오후 2시
+---
+## 참여자
+- 강재민(C++)
+- 김도형(C++)
+- 이호찬()
+
+## 주차별 내용
+1. BFS (풀이 : 벽 부수고 이동하기 4, 아기상어)
+
+## 진행방식
+- 스터디 당일주차별 주제에 맞는 문제들을 난이도 별로 코드를 분석한다.
+- 당일 코드 분석 중 궁금한 점들을 서로 질문한다.
+- 스터디 날 진행한 관련 문제를 선정해서 다음 스터디 전까지 풀이해서 깃허브에 업로드 한다.
+
+## 파일명 작성 규칙
+- 파일 업로드 시, 파일 뒤에 이름을 닉네임으로 붙일 것
+- ex) baby_shark_dohkim.cpp
+
